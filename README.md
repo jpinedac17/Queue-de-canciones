@@ -22,8 +22,6 @@ No se utilizan estructuras del JDK como `Queue`, `LinkedList`,
 
     /umg.edu.gt.data-structure.queue
     /queueHandler
-    /README.md
-    /ejecucion
 
 ------------------------------------------------------------------------
 
@@ -215,18 +213,10 @@ Al terminar todas:
 
 # 📸 Evidencias
 
-La carpeta `/ejecucion` incluye:
+La carpeta `/evidencias` incluye:
 
 -   Captura de `mvn clean install` en la librería
 -   Captura de `mvn clean package` en el handler
 -   Ejecución desde consola con `java -jar`
 -   Logs mostrando reproducción segundo a segundo
 -   Evidencia del sistema de prioridad funcionando
-
-------------------------------------------------------------------------
-
-# 👨‍💻 Autor
-
-Jeiner Pineda\
-Curso: Estructura de Datos\
-Universidad: UMG
