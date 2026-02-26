@@ -187,8 +187,6 @@ Durante la reproducción:
 -   Se utiliza `Thread.sleep(1000)` para simular 1 segundo real
 -   Se imprime el progreso segundo a segundo:
 
-```{=html}
-
 ```
     Playing... 1s / 14s
     Playing... 2s / 14s
