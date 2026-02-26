@@ -191,6 +191,7 @@ Durante la reproducción:
     Playing... 1s / 14s
     Playing... 2s / 14s
     ...
+```
 
 Al finalizar:
 
