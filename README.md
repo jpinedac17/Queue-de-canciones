@@ -188,7 +188,7 @@ Durante la reproducción:
 -   Se imprime el progreso segundo a segundo:
 
 ```{=html}
-<!-- -->
+
 ```
     Playing... 1s / 14s
     Playing... 2s / 14s
